@@ -86,10 +86,10 @@ header {
 	padding-bottom: 18px;
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
-	border-color: #e5e5e5;
+	border-color: #292929;
 	box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;
 	background: #ffffff;
-	color: black !important;
+	color: white !important;
 	margin: 0 auto;
 	position: relative;
 	z-index: 99;
