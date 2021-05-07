@@ -7,7 +7,7 @@
 body {
 	width: 100%;
 	color: #212529;
-	background: #e8e8e8;
+	background: #ff0000;
 	margin-bottom: 60px;
 }
 
@@ -88,8 +88,7 @@ header {
 	border-bottom-style: solid;
 	border-color: #e5e5e5;
 	box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;
-	background-color: #ff0000;
-	background: #ffffff;
+	background: #ff0000;
 	color: black !important;
 	margin: 0 auto;
 	position: relative;
