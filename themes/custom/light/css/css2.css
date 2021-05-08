@@ -7,7 +7,7 @@
 body {
 	width: 100%;
 	color: #212529;
-	background: #e8e8e8;
+	background: #bdb6bf;
 	margin-bottom: 60px;
 }
 
@@ -69,7 +69,7 @@ blockquote {
 	border-right: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
 	border-left: 3px solid #a6cade;
-	background: #e9e9e9;
+	background: #bdb6bf;
 	padding: 1em;
 }
 
@@ -577,7 +577,7 @@ body {
 }
 
 .error-page {
-	background: #e8e8e8;
+	background: #bdb6bf;
 	display: flex;
 	justify-content: center;
 	align-items: center;
