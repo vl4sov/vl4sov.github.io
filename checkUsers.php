@@ -1,8 +1,8 @@
 <?php
 header('Content-type: text/html; charset=utf-8');
-// Ñîåäèíÿìñÿ ñ ÁÄ
+// Ð¡Ð¾ÐµÐ´Ð¸Ð½ÑÐ¼ÑÑ Ñ Ð‘Ð”
 if($_SERVER['REQUEST_METHOD'] == 'GET') {
-	$array = $_GET; //Ìàññèâ, êîòîðûé ïðèõîäèò
+	$array = $_GET; //ÐœÐ°ÑÑÐ¸Ð², ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¿Ñ€Ð¸Ñ…Ð¾Ð´Ð¸Ñ‚
 	$Nick_Name = $_GET['Nick_Name'];
 	$Setial = $_GET['Serial'];
 }
@@ -20,6 +20,6 @@ while ($row = mysqli_fetch_array($result)) {
 }
 }
 else {
-	echo 'Ñåðâåð íå îòâå÷àåò';
+	echo 'Ð¡ÐµÑ€Ð²ÐµÑ€ Ð½Ðµ Ð¾Ñ‚Ð²ÐµÑ‡Ð°ÐµÑ‚';
 }
 ?>
