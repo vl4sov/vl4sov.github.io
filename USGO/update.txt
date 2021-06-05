@@ -1,4 +1,4 @@
 {
   "updateurl": "link",
-  "latest": "0.2"
+  "latest": "0.1"
 }
