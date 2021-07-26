@@ -1,4 +1,4 @@
 {
-  "updateurl": "https://github.com/vl4sov/vl4sov.github.io/raw/main/USGO/!usgo.luac",
-  "latest": "0.2"
+  "updateurl": "https://vl4sov.ml/USGO/!usgo.luac",
+  "latest": "2.0"
 }
